@@ -1,0 +1,12 @@
+##【env】运行环境：online(生产)  test(测试)
+env:test
+#env:online
+
+##【jenkins_home】jenkins主目录：e.g. /data01/jenkins/
+jenkins_home:/data01/jenkins/
+
+##【flowshell_home】流程脚本目录--相对于jenkins主目录的路径：e.g. CJenkinsF/
+flowshell_home:CJenkinsF/
+
+##【db_info】MySQL数据库连接信息
+db_info:Server=132.42.47.48;Port=3306;Database=test;Uid=income_busi;Pwd=xxx...xxx;CharSet=utf8;
