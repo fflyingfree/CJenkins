@@ -2,7 +2,7 @@
 基于 "jenkins + 核心服务程序" 的后台持续集成实现
 Linux/C-C++ 后台持续集成
 
-后台核心服务程序-v1.0
+后台核心服务程序
 TIME: 2018/4/20
 author: 逍遥飞
 email: fflyingfree@126.com
